@@ -1,0 +1,26 @@
+{
+    "收藏的版块": [
+        "休闲娱乐 - 杀人游戏",
+        "休闲娱乐 - 指环王·魔戒",
+        "知性感性 - 离婚",
+        "知性感性 - 家庭生活"
+    ],
+    "收藏的版块详情": [
+        {
+            "name": "休闲娱乐 - 杀人游戏",
+            "url": "https://m.newsmth.net/board/KingKiller"
+        },
+        {
+            "name": "休闲娱乐 - 指环王·魔戒",
+            "url": "https://m.newsmth.net/board/LordOfTheRings"
+        },
+        {
+            "name": "知性感性 - 离婚",
+            "url": "https://m.newsmth.net/board/Divorce"
+        },
+        {
+            "name": "知性感性 - 家庭生活",
+            "url": "https://m.newsmth.net/board/FamilyLife"
+        }
+    ]
+}

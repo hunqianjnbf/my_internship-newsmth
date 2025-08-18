@@ -1,0 +1,25 @@
+# GUI框架
+PyQt5>=5.15.0
+PyQt5-Qt5>=5.15.0
+PyQt5-sip>=12.8.0
+
+# 网络请求
+requests>=2.25.0
+
+# 数据处理
+beautifulsoup4>=4.9.0
+
+# 多线程和异步
+threading2>=0.3.1
+
+# 图像处理
+Pillow>=8.0.0
+
+# 数据存储
+json5>=0.9.0
+
+# 开发工具
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.8.0
+
