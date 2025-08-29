@@ -1,0 +1,46 @@
+{
+  "收藏的版块": [
+    "休闲娱乐 - 花木园艺",
+    "休闲娱乐 - 多肉植物",
+    "休闲娱乐 - 水族",
+    "休闲娱乐 - 摄影世家",
+    "休闲娱乐 - 个人Show",
+    "休闲娱乐 - 摄影",
+    "休闲娱乐 - 电视秀",
+    "电脑技术 - Web开发"
+  ],
+  "收藏的版块详情": [
+    {
+      "name": "休闲娱乐 - 花木园艺",
+      "url": "https://m.newsmth.net/board/Botany"
+    },
+    {
+      "name": "休闲娱乐 - 多肉植物",
+      "url": "https://m.newsmth.net/board/Duorou"
+    },
+    {
+      "name": "休闲娱乐 - 水族",
+      "url": "https://m.newsmth.net/board/Fish"
+    },
+    {
+      "name": "休闲娱乐 - 摄影世家",
+      "url": "https://m.newsmth.net/board/Photograph"
+    },
+    {
+      "name": "休闲娱乐 - 个人Show",
+      "url": "https://m.newsmth.net/board/MyPhoto"
+    },
+    {
+      "name": "休闲娱乐 - 摄影",
+      "url": "https://m.newsmth.net/board/Photo"
+    },
+    {
+      "name": "休闲娱乐 - 电视秀",
+      "url": "https://m.newsmth.net/board/TVShow"
+    },
+    {
+      "name": "电脑技术 - Web开发",
+      "url": "https://m.newsmth.net/board/WebDev"
+    }
+  ]
+}
